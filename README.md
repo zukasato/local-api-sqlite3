@@ -1,6 +1,6 @@
 # webapi_practice
 
-### postresql参考
+### postgresql参考
 https://www.dbonline.jp/postgresql/
 
 ### docker参考
